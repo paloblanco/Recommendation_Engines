@@ -15,13 +15,13 @@ If you want to be able to run "Recommendations_with_IBM.ipynb" yourself, do the 
 1. Clone this repo, then set up a virtual environment in the project root:
 
     ```cmd
-    \\\Disaster_Response_App> python -m venv venv
+    \\\Recommendation_Engines> python -m venv venv
     ```
 
 2. Activate the virtual environment and install requirements with pip:
 
     ```cmd
-    (venv) \\\Disaster_Response_App> python -m pip install -r requirements.txt
+    (venv) \\\Recommendation_Engines> python -m pip install -r requirements.txt
     ```
 
 3. Start a Jupyter session and open "Recommendations_with_IBM.ipynb".
